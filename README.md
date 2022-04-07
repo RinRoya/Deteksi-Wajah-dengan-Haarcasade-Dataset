@@ -1,5 +1,4 @@
 # Deteksi Wajah dengan Haarcasade Dataset
-# SVM Untuk Data Titanic
 ## Penulis: Ridho Nur Rohman Wijaya
 Pada kesempatan kali ini akan diimplementasikan metode sederhada untuk mendeteksi wajah menggunakan haarcasade dataset. Implementasi menggunakan bahasa pemrograman python yang ditulis di jupyter notebook.
 
